@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hydrating Face Cream",
+    "price": 25,
+    "category": "skincare",
+    "description": "Moisturizing cream for daily use with aloe vera.",
+    "rating": 4.6
+  },
+  {
+    "name": "Vitamin C Serum",
+    "price": 30,
+    "category": "skincare",
+    "description": "Brightening serum with 15% Vitamin C for radiant face.",
+    "rating": 4.8
+  },
+  {
+    "name": "Gentle Foaming Cleanser",
+    "price": 18,
+    "category": "skincare",
+    "description": "Mild face cleanser suitable for sensitive skin.",
+    "rating": 4.5
+  },
+  {
+    "name": "Argan Oil Hair Mask",
+    "price": 22,
+    "category": "haircare",
+    "description": "Deep conditioning mask with pure argan oil.",
+    "rating": 4.7
+  },
+  {
+    "name": "Volumizing Shampoo",
+    "price": 15,
+    "category": "haircare",
+    "description": "Shampoo that adds volume and shine to fine hair.",
+    "rating": 4.3
+  },
+  {
+    "name": "Silky Smooth Conditioner",
+    "price": 16,
+    "category": "haircare",
+    "description": "Nourishing conditioner for soft, tangle-free hair.",
+    "rating": 4.4
+  },
+  {
+    "name": "Matte Liquid Lipstick",
+    "price": 20,
+    "category": "makeup",
+    "description": "Long-lasting matte lipstick in rose nude shade.",
+    "rating": 4.6
+  },
+  {
+    "name": "Waterproof Mascara",
+    "price": 18,
+    "category": "makeup",
+    "description": "Smudge-proof mascara for fuller, longer lashes.",
+    "rating": 4.7
+  },
+  {
+    "name": "Glow Highlighter Palette",
+    "price": 28,
+    "category": "makeup",
+    "description": "Four shimmering shades for a radiant glow.",
+    "rating": 4.5
+  },
+  {
+    "name": "Floral Eau de Parfum",
+    "price": 55,
+    "category": "perfume",
+    "description": "Elegant floral fragrance with jasmine and rose.",
+    "rating": 4.8
+  },
+  {
+    "name": "Citrus Body Mist",
+    "price": 25,
+    "category": "perfume",
+    "description": "Refreshing citrus scent for daily wear.",
+    "rating": 4.4
+  },
+  {
+    "name": "Vanilla Musk Perfume",
+    "price": 65,
+    "category": "perfume",
+    "description": "Warm and sweet vanilla fragrance with musk notes.",
+    "rating": 4.9
+  }
+]
